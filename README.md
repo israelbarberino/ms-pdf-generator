@@ -1,1 +1,1 @@
-# ms-pdf-generator-com-rabbit
+# ms-pdf-generator
